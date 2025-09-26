@@ -4,9 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-HTML5-orange?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/Code-CSS3-blue?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/Code-PHP-purple?style=flat&logo=php" />
   <img src="https://img.shields.io/badge/Code-Python-green?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=flat&logo=c%2B%2B" />
