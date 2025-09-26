@@ -1,6 +1,6 @@
 <h1 align="center">Mohamed Aziz Ncir </h1>
 <p align="center">
-  <em>Software Engineering Student @ ENIT | Passionate Developer & Problem Solver</em>
+  <em>Software Engineering Student @ ENIT | Passionate Developer and Problem Solver</em>
 </p>
 
 <p align="center">
